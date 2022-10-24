@@ -1,0 +1,23 @@
+Circuit: * C:\Users\N Nikhil kumar\Downloads\Transmission_gates.asc
+
+Limiting rise time of source v§clk to 0.001
+Limiting fall time of source v§clk to 0.001
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Dec 08 13:09:20 2021
+Total elapsed time: 0.485 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 61648
+traniter = 61644
+tranpoints = 26910
+accept = 21038
+rejected = 5872
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 204 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 311 bytes object code size  0.1/0.1/[0.1]
+
